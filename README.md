@@ -36,7 +36,9 @@
   
 ### 區域模型建立：新北、桃園資料獨立建模
 <img width="500.5" height="325.5" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/4.PNG"/>
+
 ## AI租金預測|預測成果應用
-<img width="489.5" height="294" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/5.PNG"/>  
+<img width="489.5" height="294" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/5.PNG"/>   
+
 • 快速獲得目標土地區位租金行情  
 • 作為土地開發區位決策模型參考依據
