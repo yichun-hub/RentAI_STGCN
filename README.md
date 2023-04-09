@@ -10,12 +10,12 @@
 ### 自動化空間區位決策模型構想 : 多AI模型並聯架構
 • 空間決策為多變因分析過程，仰賴產業、交通、人口、政策、法規、決策者主觀意識等結構性和非結構性知識的全面考量。
 • AI則擅長單一變數趨勢預測，奠基於清楚之問題定義上，和空間決策之問題本質顯然不同。
-• 空間決策的自動化人工智慧模型應為多個AI模型串聯之架構，將空間決策議題劃分為數個子議題，並針對個別議題建立AI模型，再建立基於空間問題的資訊整合機制，將各模型串聯，達成空間決策自動化之目的。
-![image]()
+• 空間決策的自動化人工智慧模型應為多個AI模型串聯之架構，將空間決策議題劃分為數個子議題，並針對個別議題建立AI模型，再建立基於空間問題的資訊整合機制，將各模型串聯，達成空間決策自動化之目的。  
+![image](https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/1.PNG)
 
 ## 計畫流程
 ### AI模組進行租金預測，並與空間區位決策模型結合
-![image]()
+![image](https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/2.PNG)
 
 ## AI租金預測|AI模組簡介
 ### 以實價登錄歷史租金資料進行AI建模
@@ -31,11 +31,11 @@
 • 模型特色：自動學習資料之Spatial（空間）和Temporal（時間）的特徵  
 • 時間卷積模塊 + 空間卷積模塊  
 • 訓練資料：民國100~111年桃園市、新北市實價登錄資料  
-• 以最小統計區做為單位進行訓練、預測  
-![image]()
+• 以最小統計區做為單位進行訓練、預測   
+![image](https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/3.PNG)
 ### 區域模型建立：新北、桃園資料獨立建模
-![image]()
+![image](https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/4.PNG)
 ## AI租金預測|預測成果應用
-![image]()
+![image](https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/5.PNG)
 • 快速獲得目標土地區位租金行情  
 • 作為土地開發區位決策模型參考依據
