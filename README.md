@@ -32,10 +32,11 @@
 • 時間卷積模塊 + 空間卷積模塊  
 • 訓練資料：民國100~111年桃園市、新北市實價登錄資料  
 • 以最小統計區做為單位進行訓練、預測   
-<div align=center><img width="383.5" height="304.5" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/3.PNG/>
+<div align=center><img width="383.5" height="304.5" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/3.PNG"/>
+  
 ### 區域模型建立：新北、桃園資料獨立建模
-<div align=center><img width="500.5" height="325.5" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/4.PNG/>
+<div align=center><img width="500.5" height="325.5" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/4.PNG"/>
 ## AI租金預測|預測成果應用
-<div align=center><img width="489.5" height="294" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/5.PNG/>  
+<div align=center><img width="489.5" height="294" src="https://github.com/yichun-hub/RentAI_STGCN/blob/main/graph/5.PNG"/>  
 • 快速獲得目標土地區位租金行情  
 • 作為土地開發區位決策模型參考依據
