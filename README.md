@@ -1,5 +1,6 @@
 # RentAI_STGCN  
 ### 應用政府開放資料評估土地開發潛力-以桃園市水利管理處精華土地為例
+詳細的介紹放在Medium[!https://medium.com/@fearless_fusion_snake_755/%E6%87%89%E7%94%A8%E6%99%82%E7%A9%BA%E6%8D%B2%E7%A9%8D%E6%A8%A1%E5%9E%8Bstgcn%E5%B0%8D%E5%9C%9F%E5%9C%B0%E5%8D%80%E4%BD%8D%E7%A7%9F%E9%87%91%E9%80%B2%E8%A1%8C%E9%A0%90%E6%B8%AC-553cdcaeceaa]
 資產活化AI應用創新競賽--第二名  
 (以下敘述著重在AI部分)
 ## 計畫緣起
